@@ -1,2 +1,2 @@
 # JSbox
-My JSbox script
+This is for my JSbox scripts share.
